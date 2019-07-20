@@ -1,6 +1,6 @@
 xx=int(input())
 if xx>0:
-    print("positive")
+    print("Positive")
 elif xx==0:
     print("zero")
 else:
