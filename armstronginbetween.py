@@ -6,5 +6,5 @@ for i in range(l,m):
     g=temp%10
     o+=g**3
     temp//=10
-  if l==o:
-    print(l,"",end="")
+  if i==o:
+    print(i,"",end="")
